@@ -1,0 +1,12 @@
+RISK_LEVEL_MAPPING = {
+    1: 0.05,
+    2: 0.08,
+    3: 0.10,
+    4: 0.12,
+    5: 0.15,
+    6: 0.18,
+    7: 0.22}
+
+DEFAULT_CORRELATION = 0.40
+MAX_WEIGHT_DEFAULT = 0.40
+VAR_CONFIDENCE = 1.65
